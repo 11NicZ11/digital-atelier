@@ -1,2 +1,11 @@
-# digital-atelier
-Persönliches Portfolio und digitale Werkstatt. Statische Website mit Next.js und TypeScript, die Webentwicklung, Design und Performance zeigt. Gebaut als lernendes Projekt mit Fokus auf Best Practices, Accessibility, sauberen Code und einen einfachen Git-Workflow für Solo-Devs.
+# Digital-Atelier
+
+Persönliches Portfolio und digitale Werkstatt.
+Gebaut mit Next.js, TypeScript und Tailwind CSS.
+
+## Setup
+
+npm install
+npm run dev
+
+Öffne http://localhost:3000 im Browser.
